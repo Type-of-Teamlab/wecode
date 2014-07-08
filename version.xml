@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <wecode>
-  <version latestver="1.0.6"></version>
+  <version latestver="1.0.0"></version>
   <download url="http://thinkry.github.io/wecode/download/wecode1.0.0.exe"></download>
   <tips>
     <tip>1、这是第一个版本！</tip>
     <tip>2、欢迎使用！</tip>
+    <tip>3、测试一下！</tip>
   </tips>
 </wecode>
