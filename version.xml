@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <wecode>
-  <version latestver="1.1.1"></version>
-  <download url="http://thinkry.github.io/wecode/download/wecode1.1.1.exe"></download>
+  <version latestver="1.1.2"></version>
+  <download url="http://thinkry.github.io/wecode/download/wecode1.1.2.exe"></download>
   <tips>
-    <tip>1、保存文章后同步立即执行</tip>
-    <tip>2、云笔记导出功能调整</tip>
-    <tip>3、不同用户使用单独的缓存</tip>
-    <tip>4、配置文件不再覆盖</tip>
-    <tip>4、同步状态查看</tip>
-    <tip>5、部分细节调整</tip>
+    <tip>1、程序标题以及任务栏描述修改</tip>
+    <tip>2、部分字体调整</tip>
+    <tip>3、导出窗体调整</tip>
+    <tip>4、安装包修改</tip>
   </tips>
 </wecode>
