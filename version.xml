@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <wecode>
-  <version latestver="1.1.2"></version>
-  <download url="http://thinkry.github.io/wecode/download/wecode1.1.2.exe"></download>
+  <version latestver="1.1.3"></version>
+  <download url="http://thinkry.github.io/wecode/download/wecode1.1.3.exe"></download>
   <tips>
-    <tip>1、程序标题以及任务栏描述修改</tip>
-    <tip>2、部分字体调整</tip>
-    <tip>3、导出窗体调整</tip>
-    <tip>4、安装包修改</tip>
+    <tip>1、主页更改</tip>
+    <tip>2、修改程序描述信息</tip>
+    <tip>3、安装包调整</tip>
   </tips>
 </wecode>
