@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <wecode>
-  <version latestver="1.1.4"></version>
-  <download url="http://thinkry.github.io/wecode/download/wecode1.1.4.exe"></download>
+  <version latestver="1.1.5"></version>
+  <download url="http://thinkry.github.io/wecode/download/wecode1.1.5.exe"></download>
   <tips>
-    <tip>1、优化提示语</tip>
+    <tip>1、增加Google Go语言支持！</tip>
   </tips>
 </wecode>
