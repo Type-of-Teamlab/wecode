@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <wecode>
-  <version latestver="1.1.6"></version>
+  <version latestver="1.1.5"></version>
   <download url="http://thinkry.github.io/wecode/download/wecode1.1.6.exe"></download>
   <tips>
     <tip>1、增加全文搜索，支持标题或者内容包含关键字的搜索！</tip>
